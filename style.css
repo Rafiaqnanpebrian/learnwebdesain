@@ -1,22 +1,20 @@
 #artikel{
-	border-style:solid;
-	border-color:#B53333;
- 	border-width:2px;
- 	padding:20px;
- }
+	opacity: 0.7;
+}
+
 h1{
     position: absolute;
-    top: 200px;
-    right: 0;
+    top: 380px;
+    right:30px;
     width: 816px;
     height: 100px;
+    color: white;
   }
-h2{
+p{
     position: absolute;
-    top:270px;
-    right: 0;
-    width: 816px;
+    top:430px;
+    right: 10px;
+    width: 840px;
     height: 100px;
-    color:#A39F9F
-  }
-
+    color:#A39F9F;
+}
